@@ -1,0 +1,10 @@
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\Exercícios\Grid\Grid\bin\Debug\Grid.exe.config
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\Exercícios\Grid\Grid\bin\Debug\Grid.exe
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\Exercícios\Grid\Grid\bin\Debug\Grid.pdb
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\Exercícios\Grid\Grid\obj\Debug\Grid.csprojAssemblyReference.cache
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\Exercícios\Grid\Grid\obj\Debug\Grid.Form1.resources
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\Exercícios\Grid\Grid\obj\Debug\Grid.Properties.Resources.resources
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\Exercícios\Grid\Grid\obj\Debug\Grid.csproj.GenerateResource.cache
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\Exercícios\Grid\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\Exercícios\Grid\Grid\obj\Debug\Grid.exe
+C:\Users\Toxic Guy\Desktop\Facul\EC-2\Algoritmos II\Exercícios\Grid\Grid\obj\Debug\Grid.pdb
